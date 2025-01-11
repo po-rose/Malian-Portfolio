@@ -5,7 +5,7 @@ export class Portfolio extends Component {
     render() {
         return (
             <div className="w-full h-full relative flex flex-col text-white select-none">
-                <iframe width="100%" height="100%" src="https://malianyang-intro.vercel.app/" title="malian yang"></iframe>
+                <iframe width="100%" height="100%" src="https://janeyang-intro.vercel.app/" title="jane yang"></iframe>
             </div>
         )
     }

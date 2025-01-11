@@ -5,14 +5,14 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Malian Yang Portfolio - Software Engineer</title>
+            <title>Jane Yang Portfolio - Software Engineer</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Malian Yang Portfolio - Software Engineer" />
+            <meta name="title" content="Jane Yang Portfolio - Software Engineer" />
             <meta name="description"
-                content="Malian Yang's (malianyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="author" content="Malian Yang (malianyang)" />
+                content="Jane Yang's (janeyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="author" content="Jane Yang (janeyang)" />
             <meta name="keywords"
-                content="malianyang, malianyang's portfolio, malianyang linux, ubuntu portfolio, Malian Yang protfolio, Malian Yang computer, Malian Yang, malian ubuntu, Malian Yang ubuntu portfolio" />
+                content="janeyang, janeyang's portfolio, janeyang linux, ubuntu portfolio, Jane Yang protfolio, Jane Yang computer, Jane Yang, jane ubuntu, Jane Yang ubuntu portfolio" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
@@ -22,25 +22,25 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Malian Yang Portfolio - Software Engineer" />
+            <meta itemProp="name" content="Jane Yang Portfolio - Software Engineer" />
             <meta itemProp="description"
-                content="Malian Yang's (malianyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Jane Yang's (janeyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* linkedin */
             <meta name="linkedin:card" content="summary" />
-            <meta name="linkedin:title" content="Malian Yang Portfolio - Software Engineer" />
+            <meta name="linkedin:title" content="Jane Yang Portfolio - Software Engineer" />
             <meta name="linkedin:description"
-                content="Malian Yang's (malianyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="linkedin:site" content="malianyang" />
-            <meta name="linkedin:creator" content="malianyang" />
+                content="Jane Yang's (janeyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="linkedin:site" content="janeyang" />
+            <meta name="linkedin:creator" content="janeyang" />
             <meta name="linkedin:image:src" content="images/logos/me-perfect-transparent.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Malian Yang Portfolio - Software Engineer" />
+            <meta name="og:title" content="Jane Yang Portfolio - Software Engineer" />
             <meta name="og:description"
-                content="Malian Yang's (malianyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Jane Yang's (janeyang) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/me-perfect-transparent.png" />
-            <meta name="og:url" content="https://malian-ubuntu.netlify.app/" />
-            <meta name="og:site_name" content="Malian Yang Personal Portfolio" />
+            <meta name="og:url" content="https://jane-ubuntu.netlify.app/" />
+            <meta name="og:site_name" content="Jane Yang Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 

@@ -30,8 +30,8 @@ const apps = [
         screen: displayTerminalCalc,
     },
     {
-        id: "about-malian",
-        title: "About Malian",
+        id: "about-jane",
+        title: "About Jane",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,

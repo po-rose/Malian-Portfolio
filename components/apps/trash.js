@@ -19,7 +19,7 @@ export class Trash extends Component {
             },
 
             {
-                name: "malian-react project",
+                name: "jane-react project",
                 icon: "./themes/Yaru/system/folder.png"
             },
             {

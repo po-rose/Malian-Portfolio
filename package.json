@@ -1,8 +1,8 @@
 {
-  "name": "malian-portfolio-malian",
+  "name": "jane-portfolio-jane",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://www.malian.com/",
+  "homepage": "https://www.jane.com/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
