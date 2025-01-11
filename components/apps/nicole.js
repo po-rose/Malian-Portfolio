@@ -161,7 +161,7 @@ function About() {
                     <br />- <span className="text-pink-700 font-bold">Database:</span> MySQL, Oracle, MongoDB, Firebase Runtime Database, AWS DynamoDB
                     <br />- <span className="text-pink-700 font-bold">Restful API:</span>OpenAI API, Midjourney API, ChatGPT, Text-To-Speech, Speech-To-Text
                     <br />I am ready to help your <span className="text-pink-600 font-bold">ambitious project.</span> Thank you.
-                    <br />( Mail me up <a className='text-pink-600 font-bold' href='mailto:h.yang4u@gmail.com'> @h.yang4u@gmail.com </a> )
+                    <br />( Mail me up <a className='text-pink-600 font-bold' href='mailto:x.solution1027@gmail.com'> x.solution1027@gmail.com </a> )
                 </li>
                 <li className="mt-3 list-building text-xl font-sans"> I love building <span className="text-pink-600 font-bold">awesome websites and products</span> that need wonderful services.</li>
                 <li className="mt-3 list-time text-xl font-sans"> When I am free, I like to spend my time reading books, playing games or writing <a className="text-pink-600 font-bold" href="https://medium.com/@malian-blog" target="_blank"> some blogs.</a></li>

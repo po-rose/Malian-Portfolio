@@ -6,7 +6,7 @@ export class Gedit extends Component {
         return (
             <div style={{ backgroundImage: "url(./images/memes/contact-back.png)", backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPositionX: "center" }} className="w-full h-full relative flex flex-col text-white select-none">
                 <div className="relative flex-grow flex flex-row flex-wrap justify-evenly items-center font-normal windowMainScreen">
-                    <a href="x.solution1027@gmail.com" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">
+                    <a href="mailto:x.solution1027@gmail.com" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">
                         <img className="w-28 cursor-pointer contact-icon" alt="malian gmail" src="https://img.icons8.com/color/344/gmail-new.png" />
                     </a>
                     <a href="https://join.skype.com/invite/jkpt3fUCnQgr" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">
@@ -15,7 +15,7 @@ export class Gedit extends Component {
                     <a href="https://t.me/xprofessional1130" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">
                         <img className="w-28 cursor-pointer contact-icon" alt="malian telegram" src="https://img.icons8.com/color/344/telegram-app--v1.png" />
                     </a>
-                    <a href="https://discord.gg/aNaUKsWjc2" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">
+                    <a href="https://discord.gg/566uubX9" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">
                         <img className="w-28 cursor-pointer contact-icon" alt="malian discord" src="https://img.icons8.com/avantgarde/344/discord-logo.png" />
                     </a>
                     {/* <a href="https://www.linkedin.com/in/malian-yang-a4458b272/" target="_blank" className="sm:w-2/12 w-[120px] flex flex-row justify-evenly">

@@ -12,13 +12,13 @@ function BootingScreen(props) {
             </div>
             <img width="200px" height="100px" className="md:w-1/5 w-1/2" src="./themes/Yaru/status/ubuntu_white_hex.svg" alt="Ubuntu Name" />
             <div className="text-white mb-4 flex">
-                <a href="https://www.linkedin.com/in/malian-yang-a4458b272/" rel="noreferrer noopener" target="_blank">
+                {/* <a href="https://www.linkedin.com/in/malian-yang-a4458b272/" rel="noreferrer noopener" target="_blank">
                     <img width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
-                </a>
+                </a> */}
                 <span className="font-bold mx-1 mt-2">|</span>
-                <a href="https://github.com/po-rose/" rel="noreferrer noopener" target="_blank">
+                {/* <a href="https://github.com/po-rose/" rel="noreferrer noopener" target="_blank">
                     <img width="40px" src="https://img.icons8.com/color/344/github.png" />
-                </a>
+                </a> */}
             </div>
         </div>
     )
